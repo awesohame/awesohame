@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Aversekar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [Amazon Clone](https://github.com/awesohame/Amazon-Clone)
-
-- 🌱 I’m currently learning **NextJS, Redux**
+- 🌱 I’m currently learning **NextJS, ML**
 
 - 👨‍💻 All of my projects are available at [https://awesohame.vercel.app/](https://awesohame.vercel.app/)
 
