@@ -6,22 +6,23 @@ I'm a Web Developer from India, currently pursuing a Computer Engineering degree
 ## 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/awesohame">
-    <img src="https://github-readme-stats.vercel.app/api?username=awesohame&theme=blueberry&show_icons=true&hide_border=true&count_private=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=awesohame&theme=blueberry&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/awesohame">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesohame&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesohame&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" />
   </a>
 </div>
 
 ## ⚡ LC & CF Stats:
 <div align="center">
   <a href="https://leetcode.com/awesohame/">
-    <img src="https://leetcard.jacoblin.cool/awesohame?theme=catppuccinMocha&font=ABeeZee&ext=contest" />
+    <img height=300 align="center" src="https://leetcard.jacoblin.cool/awesohame?theme=dark&font=ABeeZee&ext=contest" />
   </a>
   <a href="https://codeforces.com/profile/awesohame">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=awesohame&theme=blueberry&disable_animations=true&show_icons=true&force_username=true" />
+    <img height=300 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=awesohame&theme=blueberry&disable_animations=true&show_icons=true&force_username=true" />
   </a>
 </div>
+
 
 
 
