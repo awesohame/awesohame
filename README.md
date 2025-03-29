@@ -6,10 +6,10 @@ I'm a Web Developer from India, currently pursuing a Computer Engineering degree
 ## 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/awesohame">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=awesohame&theme=blueberry&show_icons=true&hide_border=true&count_private=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=awesohame&theme=blueberry&show_icons=true&hide_border=true&count_private=true&rank_icon=github&hide=stars,issues&show=prs_merged_percentage" />
   </a>
   <a href="https://github.com/awesohame">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesohame&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesohame&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=donut&card_width=250" />
   </a>
 </div>
 
