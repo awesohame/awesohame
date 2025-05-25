@@ -1,6 +1,6 @@
 # 👋 Hi, I am Soham Aversekar
 
-I'm a Web Developer from India, currently pursuing a Computer Engineering degree in Mumbai. Passionate about solving real-world problems, I specialize in building dynamic, scalable, and efficient web applications using modern technologies.
+I'm a Software Developer from India, currently pursuing a Computer Engineering degree in Mumbai. Passionate about solving real-world problems, I specialize in building dynamic, scalable, and efficient applications using modern technologies.
 
 
 ## 📊 GitHub Stats:
