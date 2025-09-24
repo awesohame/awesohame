@@ -16,7 +16,7 @@ I'm a Software Developer from India, currently pursuing a Computer Engineering d
 ## ⚡ LC & CF Stats:
 <div align="center">
   <a href="https://leetcode.com/awesohame/">
-    <img height=300 align="center" src="https://leetcard.jacoblin.cool/awesohame?theme=dark&font=ABeeZee&ext=contest" />
+    <img height=300 align="center" src="https://leetcard.jacoblin.cool/awesohame?theme=catppuccinMocha&font=Montserrat&ext=contest&animation=false&hide=ranking" />
   </a>
   <a href="https://codeforces.com/profile/awesohame">
     <img height=300 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=awesohame&theme=blueberry&disable_animations=true&show_icons=true&force_username=true" />
